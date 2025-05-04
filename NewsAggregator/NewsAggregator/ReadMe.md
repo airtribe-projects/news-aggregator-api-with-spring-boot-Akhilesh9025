@@ -1,4 +1,7 @@
 # News Aggregator
+### by Jyothir Venkata Akhilesh Munagala
+
+
 
 **News Aggregator** is a Spring Boot application that aggregates news articles from different sources using the [NewsAPI](https://newsapi.org/). The project includes user authentication, JWT-based security, a caching mechanism, and the ability for users to interact with news articles (marking them as read or favorite).
 
